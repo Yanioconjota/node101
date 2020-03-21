@@ -1,0 +1,31 @@
+ [
+  {
+    "nombre": "La Astris",
+    "poder": "Soltar dólares",
+    "comentario": "Holiis, los amo!"
+  },
+  {
+    "nombre": "Churrasco",
+    "poder": "Estár enferma",
+    "comentario": "Holaaa, me tiré un pedooo miraaa!"
+  },
+  {
+    "nombre": "Fran",
+    "poder": "Tener tíos",
+    "comentario": "Yo tengo un tío que..."
+  }, {
+    "nombre": "Morgan",
+    "poder": "Comer soretes",
+    "comentario": "Mmm! Mmm! Mmm! Mmmmmmmm!"
+  },
+  {
+    "nombre": "La Sole",
+    "poder": "Romper lah bolah",
+    "comentario": "Beiiiibiiiii! Podés veniiiiiiiiiiiiir?"
+  },
+  {
+    "nombre": "Pato",
+    "poder": "Tener dolor de muela",
+    "comentario": "Hooooola! Una consuuuulta!"
+  }
+]
