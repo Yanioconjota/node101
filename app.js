@@ -21,7 +21,7 @@ switch (accion) {
     }
     arrHeroes = listaHeroes.saludar(nombreHeroe);
     arrHeroes.forEach((heroe, index) => {
-      //console.log(heroe.comentario + '. ' + 'Soy ' + heroe.nombre + '. Mi poder es: ' + heroe.poder + '.');
+      console.log(heroe.comentario + '. ' + 'Soy ' + heroe.nombre + '. Mi poder es: ' + heroe.poder + '.');
     });
     break;
   case 'agregar':
