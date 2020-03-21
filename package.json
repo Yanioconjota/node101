@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Yanioconjota/node101/issues"
   },
-  "homepage": "https://github.com/Yanioconjota/node101#readme"
+  "homepage": "https://github.com/Yanioconjota/node101#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
